@@ -3,8 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:LoveLove/components/globalvariables.dart';
-import 'package:LoveLove/models/authentication/view/signin.dart';
-
 import '../helpers/colors.dart';
 import '../helpers/const_text.dart';
 import '../helpers/spacer.dart';
